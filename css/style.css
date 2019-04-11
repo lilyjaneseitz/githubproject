@@ -1,3 +1,6 @@
 h1 {color: green; font-family: arial;}
 h2 {color: blue; font-family: times new roman;}
-img {height: 100 px;}
+img {
+  width: 300px;
+  height: auto;
+}
